@@ -1,0 +1,66 @@
+{
+  "list_life_style": [
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_1.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_2.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_3.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_4.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_5.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_6.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_7.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_8.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_9.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_10.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lifestyle_11.png"
+  ],
+  "list_color": [
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_1.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_2.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_3.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_4.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_5.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_6.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_7.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_8.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_9.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_10.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_colors_11.png"
+  ],
+  "list_dark": [
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_1.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_2.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_3.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_4.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_5.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_6.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_7.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_8.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_9.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_10.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_dark_11.png"
+  ],
+  "list_music": [
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music1.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music2.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music3.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music4.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music5.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music6.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music7.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music8.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music9.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music10.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_music11.png"
+  ],
+  "list_orther": [
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_autumn.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_beach.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_city.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_lock_pattern.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_mountain.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_sea.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_spring.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_sunset.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_winter.png",
+    "https://raw.githubusercontent.com/ConfigNeko/ImageDiary/main/bg_winter2.png"
+  ]
+}
